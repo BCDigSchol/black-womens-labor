@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Black Women's Labor"
 authors:
-  - family-names: UNCERTAIN
-    given-names: UNCERTAIN
+  - family-names: Lemoine
+    given-names: Bailey
 abstract: "Jekyll site for the Black Women's Labor Project @ Boston College"
 version: 0.0.1
 date-released: "2024-4-9"

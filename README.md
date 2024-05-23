@@ -2,7 +2,7 @@
 
 *Jekyll website for the Black Women's Labor Project @ [Boston College](https://bc.edu)*
 
-By UNCERTAIN
+By Bailey Lemoine
 
 ## About
 
